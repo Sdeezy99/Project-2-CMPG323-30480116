@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N6n9oFSkoJMA7a8u2r21fcSlVGQmUWDY2AF3Ok0mHWOB6l5wBkx3lFh8PdUUv9Aiw1987UD+/WnJEOtg3s3DMg==",
+  "dgSpecHash": "2rszLFGUegA7emApQTvNTyHbCzpqEbQYwjPA9VAET8lACofQf+6wNrpPe6evXsNbGmZzoNXy/vFYgERoSULwAw==",
   "success": true,
-  "projectFilePath": "E:\\EcoPowerSolutionsProject\\EcoPowerSolutions\\EcoPowerSolutions.csproj",
+  "projectFilePath": "E:\\Project-2-CMPG323-30480116\\EcoPowerSolutionsProject\\EcoPowerSolutions\\EcoPowerSolutions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\itstudent\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\itstudent\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
